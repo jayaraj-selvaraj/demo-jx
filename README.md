@@ -1,2 +1,1 @@
-# demo-jx
-Demonstration of code work
+# juniper-oracle-to-stage

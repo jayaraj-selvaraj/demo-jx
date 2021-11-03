@@ -1,0 +1,7 @@
+baseloc=/data/juniper/jar/Cextract/
+extloc=/data/juniper/in/Cextract_out/
+logloc=/data/juniper/jar/Cextract/cextract_temp/
+lockey=/opt/juniper/scripts/key/master_key.txt
+metalogon=/opt/juniper/Scheduler/param/ora_logon.sql
+decjar=/opt/juniper/Mat/jar/
+nifiurl=http://gbl20076671.systems.uk.hsbc:8110/contentListener
